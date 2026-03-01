@@ -1,6 +1,3 @@
-from xml.sax.handler import property_interning_dict
-
-
 class Student:
     def __init__(self, name, surname, gender):
         self.name = name
